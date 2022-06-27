@@ -1,0 +1,31 @@
+html {
+    display: flex;
+    justify-content: center;
+    color: black;
+
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.title {
+    font-size: xx-large;
+}
+
+.smallTitle {
+    font-weight: 1000;
+}
+
+.entry {
+    background-color: pink;
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: left;
+}
